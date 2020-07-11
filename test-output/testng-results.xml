@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36936" started-at="2020-07-10T10:08:13Z" finished-at="2020-07-10T10:08:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36936" started-at="2020-07-10T10:08:13Z" finished-at="2020-07-10T10:08:50Z">
+      <class name="com.qa.test.VehicleStore">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="openBrowser" is-config="true" duration-ms="8025" started-at="2020-07-10T10:08:13Z" finished-at="2020-07-10T10:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="verifyPageTitle" duration-ms="45" started-at="2020-07-10T10:08:21Z" finished-at="2020-07-10T10:08:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="825" started-at="2020-07-10T10:08:21Z" finished-at="2020-07-10T10:08:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="openBrowser" is-config="true" duration-ms="6693" started-at="2020-07-10T10:08:22Z" finished-at="2020-07-10T10:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifySubmitButton()[pri:2, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="verifySubmitButton" duration-ms="5248" started-at="2020-07-10T10:08:29Z" finished-at="2020-07-10T10:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubmitButton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="838" started-at="2020-07-10T10:08:34Z" finished-at="2020-07-10T10:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="openBrowser" is-config="true" duration-ms="6711" started-at="2020-07-10T10:08:35Z" finished-at="2020-07-10T10:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyHomePageHeader()[pri:3, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="verifyHomePageHeader" duration-ms="78" started-at="2020-07-10T10:08:42Z" finished-at="2020-07-10T10:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="853" started-at="2020-07-10T10:08:42Z" finished-at="2020-07-10T10:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="openBrowser" is-config="true" duration-ms="6582" started-at="2020-07-10T10:08:43Z" finished-at="2020-07-10T10:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyVehicleListOfValues()[pri:4, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="verifyVehicleListOfValues" duration-ms="202" started-at="2020-07-10T10:08:49Z" finished-at="2020-07-10T10:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVehicleListOfValues -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.test.VehicleStore@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="790" started-at="2020-07-10T10:08:49Z" finished-at="2020-07-10T10:08:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.test.VehicleStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
